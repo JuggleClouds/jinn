@@ -1,6 +1,6 @@
-# 🧞‍♂️ JINN – The Wish-Driven Cloud Orchestrator
+# 🧞‍♂️ JINN - The Wish-Driven Cloud Orchestrator 
 
-![Jinn emerging from a laptop cloud](./images/jinn_cloud_laptop.png)
+![Jinn logo](./images/jinn.png)
 *“Your wish is my deployment…”*
 
 ---
@@ -29,4 +29,16 @@ Whether you want to deploy across multiple clouds or anchor automation in decent
 ## 🪔 Example Wish
 
 ```bash
-jinn init cluster --tools argocd,helm
+jinn init cluster --name my-cluster --tools argocd,helm
+jinn destroy cluster --name my-cluster
+```
+
+<!-- ## 📦 Installation
+
+```bash
+brew install jinn
+```
+or for linux:
+```bash
+curl -LsSf https://jinn.sh/install.sh | sh
+``` -->
