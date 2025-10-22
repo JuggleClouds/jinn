@@ -1,6 +1,13 @@
 # 🧞‍♂️ JINN – The Wish-Driven Cloud Orchestrator
 
-![Jinn emerging from a laptop cloud](https://cdn.example.com/jinn_cloud_laptop.png)
+<!-- Put image files in ./images/ and commit them to the repo.
+     Example filenames used below:
+       - images/jinn_cloud_laptop.png
+       - images/blockchain_lamp.png
+       - images/devops_genie_yaml.png
+-->
+
+![Jinn emerging from a laptop cloud](./images/jinn_cloud_laptop.png)
 *“Your wish is my deployment…”*
 
 ---
@@ -9,20 +16,20 @@
 
 The idea behind **JINN** is simple — to summon your very own **cloud-native genie** 🪔 that fulfills your DevOps wishes.
 
-**JINN** allows you to deploy a **cloud-provider-independent cluster management system** on a **blockchain network**, using your **custom toolset** for worldwide infrastructure automation.
+**JINN** lets you deploy a **cloud-provider-independent cluster management system** on a **blockchain network**, using your **custom toolset** for worldwide infrastructure automation.
 
-Whether you want to deploy your infrastructure across multiple clouds or anchor your automation in decentralized systems —  
+Whether you want to deploy across multiple clouds or anchor automation in decentralized systems —  
 **JINN** makes your wishes come true: fast, scalable, and global. 🌍
 
 ---
 
 ## 🧰 Key Features
 
-- 🌐 **Cloud-Agnostic Orchestration** – works with any major cloud or hybrid setup  
-- 🔗 **Blockchain-Backed Infrastructure** – immutable, transparent, and auditable  
-- 🧩 **Extensible Plugin System** – integrate with Terraform, Helm, Crossplane, etc.  
-- 🚀 **Worldwide Deployment** – expand clusters and workloads globally  
-- 💫 **Declarative “Wish” Syntax** – describe what you want; JINN handles the rest  
+- 🌐 **Cloud-agnostic orchestration** — works with any major cloud or hybrid setup  
+- 🔗 **Blockchain-backed orchestration** — immutable, transparent, auditable actions  
+- 🧩 **Extensible plugin system** — integrate with Terraform, Helm, Crossplane, etc.  
+- 🚀 **Worldwide deployment** — expand clusters and workloads globally  
+- 💫 **Declarative “wish” syntax** — describe what you want; JINN handles the rest  
 
 ---
 
